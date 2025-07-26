@@ -1,7 +1,3 @@
-- 👋 Привет, я Николай
-- 👀 Я интересуюсь Web-разработкой
-- :fire: Я сейчас изучаю JS, React
-- 📫 Связаться со мной n.elmanov@gmail.com
 
 <!---
 nikelm/nikelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
